@@ -1,0 +1,24 @@
+body{
+margin-left: auto;
+margin-right: auto;
+width: 80vw;
+background-color: #b08443;
+text-align: center;
+
+}
+img{
+    width: 70%;
+}
+p{
+    font-weight: 700;
+}
+a{
+    background-color:#e08d0f ;
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    text-decoration: none;
+}
+p,img,h1{
+    margin-bottom: 50px;
+}
